@@ -26,6 +26,7 @@ C++学生信息管理系统
 该系统所需要的类主要有成绩类、学生类以及学生类的两个子类本科生类和研究生类、专业类、班级类和教师类。
 
 部分截图：
+
 ![](https://github.com/XZhuangZhuang/Student_Management_System/blob/master/images/%E6%8D%95%E8%8E%B7.PNG)
 ![](https://github.com/XZhuangZhuang/Student_Management_System/blob/master/images/%E6%8D%95%E8%8E%B72.PNG)
 ![](https://github.com/XZhuangZhuang/Student_Management_System/blob/master/images/%E6%8D%95%E8%8E%B73.PNG)
